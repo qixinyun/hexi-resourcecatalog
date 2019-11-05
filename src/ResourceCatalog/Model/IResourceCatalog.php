@@ -160,7 +160,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['QSTHJJ'] => array(
             self::TYPE['CPTGLSZXCPRZMD']
         ),
-        IUserGroup::ID['QSWJ'] => array(
+        IUserGroup::ID['QSWJUN'] => array(
             self::TYPE['ESCJDPGJGHZZS']
         ),
         IUserGroup::ID['QHZJLB'] => array(),

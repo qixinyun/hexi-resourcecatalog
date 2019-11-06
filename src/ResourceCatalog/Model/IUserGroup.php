@@ -24,7 +24,7 @@ interface IUserGroup extends IUserGroupIdentify
         'QGSL' => 17,
         'QWLJ' => 18,
         'QSTHJJ' => 19,
-        'QSWJ' => 20,
+        'QSWJUN' => 20,
         'QHZJLB' => 21,
         'QMZJ' => 22,
         'QXWZX' => 23,

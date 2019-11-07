@@ -27,9 +27,9 @@ interface IResourceCatalogTypeRedBlackList
         IResourceCatalog::TYPE['AJNSRXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
         IResourceCatalog::TYPE['XZXKQYXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['SYDWFRDJXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
-        IResourceCatalog::TYPE['PXSTYXHDJXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
+        IResourceCatalog::TYPE['HXQTYXHDJXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],#
         IResourceCatalog::TYPE['DZDAGZZDWGRBZJL'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
-        IResourceCatalog::TYPE['JXSZLJDW'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
+        IResourceCatalog::TYPE['TJSZLJDW'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],#
         IResourceCatalog::TYPE['DTJXJGRXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
         IResourceCatalog::TYPE['SXBZXJGXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['BLACK'],
         IResourceCatalog::TYPE['SXBZXRMD'] => ISearchableResourceCatalogData::RED_BLACK_LIST['BLACK'],
@@ -48,7 +48,7 @@ interface IResourceCatalogTypeRedBlackList
         IResourceCatalog::TYPE['SXQYHMD'] => ISearchableResourceCatalogData::RED_BLACK_LIST['BLACK'],
         IResourceCatalog::TYPE['SPYPTSJBJLGR'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
         IResourceCatalog::TYPE['SPYPTSJBJLDW'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
-        IResourceCatalog::TYPE['JXMPCPXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
+        IResourceCatalog::TYPE['TJMPCPXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['RED'],
         IResourceCatalog::TYPE['JSZGXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['SJYXXS'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],
         IResourceCatalog::TYPE['SYBXXX'] => ISearchableResourceCatalogData::RED_BLACK_LIST['NULL'],

@@ -78,5 +78,6 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['CCJCJGXX'] => '抽查检查结果信息',
         IResourceCatalog::TYPE['JGRYXXSLFW'] => '机构荣誉信息',
         IResourceCatalog::TYPE['ZDSSWFAJXX'] => '重大税收违法案件信息',
+        IResourceCatalog::TYPE['TJQYFRGGXYZHPJJG'] => '天津企业法人公共信用综合评价结果',
     );
 }

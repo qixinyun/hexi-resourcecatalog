@@ -77,6 +77,7 @@ interface IResourceCatalogIsConfirm
         IResourceCatalog::TYPE['HXQTYXHDJXX'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],#
         IResourceCatalog::TYPE['DZDAGZZDWGRBZJL'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['YXQNZYZ'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
+        IResourceCatalog::TYPE['TJQYFRGGXYZHPJJG'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
         IResourceCatalog::TYPE['TEST'] => ISearchableResourceCatalogData::TYPE_CONFIRM['NOT_CONFIRM'],
     );
 }

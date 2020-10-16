@@ -29,7 +29,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['SYDWFRDJXX'] => '事业单位法人登记信息',
         IResourceCatalog::TYPE['PXSTYXHDJXX'] => '河西区体育协会登记信息',
         IResourceCatalog::TYPE['DZDAGZZDWGRBZJL'] => '对在档案工作中作出显著成绩的或者向国家捐赠重要、珍贵档案的单位和个人的表彰或者奖励',
-        IResourceCatalog::TYPE['JXSZLJDW'] => '天津市专利奖（单位）',##
+        IResourceCatalog::TYPE['JXSZLJDW'] => '天津市专利奖（单位）',
         IResourceCatalog::TYPE['DTJXJGRXX'] => '对统计先进个人信息',
         IResourceCatalog::TYPE['SXBZXJGXX'] => '失信被执行机构信息',
         IResourceCatalog::TYPE['SXBZXRMD'] => '失信被执行人名单',
@@ -48,7 +48,7 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['SXQYHMD'] => '失信企业黑名单',
         IResourceCatalog::TYPE['SPYPTSJBJLGR'] => '食品药品投诉举报奖励（个人）',
         IResourceCatalog::TYPE['SPYPTSJBJLDW'] => '食品药品投诉举报奖励（单位）',
-        IResourceCatalog::TYPE['JXMPCPXX'] => '天津名牌产品信息',#
+        IResourceCatalog::TYPE['JXMPCPXX'] => '天津名牌产品信息',
         IResourceCatalog::TYPE['JSZGXX'] => '教师资格信息',
         IResourceCatalog::TYPE['SJYXXS'] => '市级三好学生、市级优秀学生干部',
         IResourceCatalog::TYPE['SYBXXX'] => '失业保险信息',

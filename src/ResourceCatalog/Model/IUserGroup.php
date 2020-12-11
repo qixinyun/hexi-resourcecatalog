@@ -59,7 +59,7 @@ interface IUserGroup extends IUserGroupIdentify
         'QJJ' => 53,
         'QXF' => 54,
         'QGJJ' => 55,
-        'DYMJ1' => 56,
+        'DYMJ' => 56,
         'XWFJ' => 57,
         'TYJ' => 58,
         'GJSJ' => 59,

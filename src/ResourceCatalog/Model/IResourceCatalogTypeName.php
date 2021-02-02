@@ -81,6 +81,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['TJQYFRGGXYZHPJJG'] => '天津企业法人公共信用综合评价结果',
 IResourceCatalog::TYPE['XZJCXX'] => '行政检查信息',
 IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
+IResourceCatalog::TYPE['HZSGXX'] => '火灾事故信息',
+IResourceCatalog::TYPE['ZDHZYHXX'] => '重大火灾隐患信息',
         //@position
     );
 }

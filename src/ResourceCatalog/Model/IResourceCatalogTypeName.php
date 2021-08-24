@@ -83,6 +83,9 @@ IResourceCatalog::TYPE['XZJCXX'] => '行政检查信息',
 IResourceCatalog::TYPE['XZQZXX'] => '行政强制信息',
 IResourceCatalog::TYPE['HZSGXX'] => '火灾事故信息',
 IResourceCatalog::TYPE['ZDHZYHXX'] => '重大火灾隐患信息',
+IResourceCatalog::TYPE['SCXYPJGKPJXX'] => '市场信用评价顾客评价信息',
+IResourceCatalog::TYPE['SCXYPJLYXWXX'] => '市场信用评价履约行为信息',
+IResourceCatalog::TYPE['SCXYPJSHFWXX'] => '市场信用评价商户服务信息',
         //@position
     );
 }

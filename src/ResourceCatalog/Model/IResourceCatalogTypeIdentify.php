@@ -83,6 +83,9 @@ IResourceCatalog::TYPE['XZJCXX'] => 'XZJCXX',
 IResourceCatalog::TYPE['XZQZXX'] => 'XZQZXX',
 IResourceCatalog::TYPE['HZSGXX'] => 'HZSGXX',
 IResourceCatalog::TYPE['ZDHZYHXX'] => 'ZDHZYHXX',
+IResourceCatalog::TYPE['SCXYPJGKPJXX'] => 'SCXYPJGKPJXX',
+IResourceCatalog::TYPE['SCXYPJLYXWXX'] => 'SCXYPJLYXWXX',
+IResourceCatalog::TYPE['SCXYPJSHFWXX'] => 'SCXYPJSHFWXX',
         //@position
     );
 }

@@ -107,15 +107,27 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XBXZCF'],
             self::TYPE['XBXZXK']
         ),
-        IUserGroup::ID['QFGW'] => array(self::TYPE['TSGSXZQZ'],self::TYPE['FRYSJIFXX'],self::TYPE['FRYQTQFXX'],self::TYPE['FRYQJFXX'],self::TYPE['FRYDXX'],self::TYPE['FRYDTQFXX'],self::TYPE['FRTQSFXX'],self::TYPE['SCXYPJSHFWXX'],self::TYPE['SCXYPJLYXWXX'],self::TYPE['SCXYPJGKPJXX'],
+        IUserGroup::ID['QFGW'] => array(
+            self::TYPE['TSGSXZQZ'],
+            self::TYPE['FRYSJIFXX'],
+            self::TYPE['FRYQTQFXX'],
+            self::TYPE['FRYQJFXX'],
+            self::TYPE['FRYDXX'],
+            self::TYPE['FRYDTQFXX'],
+            self::TYPE['FRTQSFXX'],
+            self::TYPE['SCXYPJSHFWXX'],
+            self::TYPE['SCXYPJLYXWXX'],
+            self::TYPE['SCXYPJGKPJXX'],
             self::TYPE['TEST'],
             self::TYPE['JGJCDXZJL'],
             self::TYPE['SJJXMXX'],
             self::TYPE['TJQYFRGGXYZHPJJG'],
             self::TYPE['TSGSJDJC'],
-            self::TYPE['TSGSXZQZ']
         ),
-        IUserGroup::ID['QZZB'] => array(self::TYPE['ZRRRYBZXX'],self::TYPE['FRRYBZXX'],),
+        IUserGroup::ID['QZZB'] => array(
+            self::TYPE['ZRRRYBZXX'],
+            self::TYPE['FRRYBZXX'],
+        ),
         IUserGroup::ID['QWXCB'] => array(),
         IUserGroup::ID['QJJJCW'] => array(),
         IUserGroup::ID['QWMB'] => array(

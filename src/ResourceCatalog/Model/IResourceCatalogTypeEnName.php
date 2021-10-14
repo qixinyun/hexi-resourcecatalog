@@ -76,7 +76,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['QYZXXX'] => 'qyzxxx',
         IResourceCatalog::TYPE['QYDXXX'] => 'qydxxx',
         IResourceCatalog::TYPE['CCJCJGXX'] => 'ccjcjgxx',
-        IResourceCatalog::TYPE['JGRYXXSLFW'] => 'jgryxxslfw',  
+        IResourceCatalog::TYPE['JGRYXXSLFW'] => 'jgryxxslfw',
         IResourceCatalog::TYPE['ZDSSWFAJXX'] => 'zdsswfajxx',
         IResourceCatalog::TYPE['TJQYFRGGXYZHPJJG'] => 'tjqyfrggxyzhpjjg',
 IResourceCatalog::TYPE['XZJCXX'] => 'xzjcxx',
@@ -86,6 +86,18 @@ IResourceCatalog::TYPE['ZDHZYHXX'] => 'zdhzyhxx',
 IResourceCatalog::TYPE['SCXYPJGKPJXX'] => 'scxypjgkpjxx',
 IResourceCatalog::TYPE['SCXYPJLYXWXX'] => 'scxypjlyxwxx',
 IResourceCatalog::TYPE['SCXYPJSHFWXX'] => 'scxypjshfwxx',
+
+IResourceCatalog::TYPE['FRQYNBXX'] => 'frqynbxx',
+IResourceCatalog::TYPE['FRRYBZXX'] => 'frrybzxx',
+IResourceCatalog::TYPE['FRTQSFXX'] => 'frtqsfxx',
+IResourceCatalog::TYPE['FRYDTQFXX'] => 'frydtqfxx',
+IResourceCatalog::TYPE['FRYDXX'] => 'frydxx',
+IResourceCatalog::TYPE['FRYQJFXX'] => 'fryqjfxx',
+IResourceCatalog::TYPE['FRYQTQFXX'] => 'fryqtqfxx',
+IResourceCatalog::TYPE['FRYSJIFXX'] => 'frysjifxx',
+IResourceCatalog::TYPE['TSGSJDJC'] => 'tsgsjdjc',
+IResourceCatalog::TYPE['TSGSXZQZ'] => 'tsgsxzqz',
+IResourceCatalog::TYPE['ZRRRYBZXX'] => 'zrrrybzxx',
         //@position
     );
 }

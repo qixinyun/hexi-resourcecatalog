@@ -86,6 +86,18 @@ IResourceCatalog::TYPE['ZDHZYHXX'] => 'ZDHZYHXX',
 IResourceCatalog::TYPE['SCXYPJGKPJXX'] => 'SCXYPJGKPJXX',
 IResourceCatalog::TYPE['SCXYPJLYXWXX'] => 'SCXYPJLYXWXX',
 IResourceCatalog::TYPE['SCXYPJSHFWXX'] => 'SCXYPJSHFWXX',
+
+IResourceCatalog::TYPE['FRQYNBXX'] => 'FRQYNBXX',
+IResourceCatalog::TYPE['FRRYBZXX'] => 'FRRYBZXX',
+IResourceCatalog::TYPE['FRTQSFXX'] => 'FRTQSFXX',
+IResourceCatalog::TYPE['FRYDTQFXX'] => 'FRYDTQFXX',
+IResourceCatalog::TYPE['FRYDXX'] => 'FRYDXX',
+IResourceCatalog::TYPE['FRYQJFXX'] => 'FRYQJFXX',
+IResourceCatalog::TYPE['FRYQTQFXX'] => 'FRYQTQFXX',
+IResourceCatalog::TYPE['FRYSJIFXX'] => 'FRYSJIFXX',
+IResourceCatalog::TYPE['TSGSJDJC'] => 'TSGSJDJC',
+IResourceCatalog::TYPE['TSGSXZQZ'] => 'TSGSXZQZ',
+IResourceCatalog::TYPE['ZRRRYBZXX'] => 'ZRRRYBZXX',
         //@position
     );
 }

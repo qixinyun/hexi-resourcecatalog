@@ -86,6 +86,18 @@ IResourceCatalog::TYPE['ZDHZYHXX'] => '重大火灾隐患信息',
 IResourceCatalog::TYPE['SCXYPJGKPJXX'] => '市场信用评价顾客评价信息',
 IResourceCatalog::TYPE['SCXYPJLYXWXX'] => '市场信用评价履约行为信息',
 IResourceCatalog::TYPE['SCXYPJSHFWXX'] => '市场信用评价商户服务信息',
+
+IResourceCatalog::TYPE['FRQYNBXX'] => '个体工商户年报信息',
+IResourceCatalog::TYPE['FRRYBZXX'] => '法人荣誉表彰信息',
+IResourceCatalog::TYPE['FRTQSFXX'] => '法人用水拖欠费信息',
+IResourceCatalog::TYPE['FRYDTQFXX'] => '法人用电拖欠费信息',
+IResourceCatalog::TYPE['FRYDXX'] => '法人用电缴费信息',
+IResourceCatalog::TYPE['FRYQJFXX'] => '法人用气缴费信息',
+IResourceCatalog::TYPE['FRYQTQFXX'] => '法人用气拖欠费信息',
+IResourceCatalog::TYPE['FRYSJIFXX'] => '法人用水缴费信息',
+IResourceCatalog::TYPE['TSGSJDJC'] => '监督检查信息',
+IResourceCatalog::TYPE['TSGSXZQZ'] => '行政强制信息',
+IResourceCatalog::TYPE['ZRRRYBZXX'] => '自然人荣誉表彰信息',
         //@position
     );
 }

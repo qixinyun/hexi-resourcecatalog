@@ -85,7 +85,6 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'SCXYPJGKPJXX'=>78,
         'SCXYPJLYXWXX'=>79,
         'SCXYPJSHFWXX'=>80,
-
         'FRQYNBXX'=>81,
         'FRRYBZXX'=>82,
         'FRTQSFXX'=>83,

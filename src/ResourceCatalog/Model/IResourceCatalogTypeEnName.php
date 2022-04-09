@@ -97,6 +97,10 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['TSGSJDJC'] => 'tsgsjdjc',
         IResourceCatalog::TYPE['TSGSXZQZ'] => 'tsgsxzqz',
         IResourceCatalog::TYPE['ZRRRYBZXX'] => 'zrrrybzxx',
+        IResourceCatalog::TYPE['QYBGDJXX'] => 'qybgdjxx',
+        IResourceCatalog::TYPE['QYNBXX'] => 'qynbxx',
+        IResourceCatalog::TYPE['QYRJCZXX'] => 'qyrjczxx',
+        IResourceCatalog::TYPE['T_SGS_XZQR'] => 't_sgs_xzqr',
         //@position
     );
 }

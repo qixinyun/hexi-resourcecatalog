@@ -97,6 +97,10 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['TSGSJDJC'] => '监督检查信息',
         IResourceCatalog::TYPE['TSGSXZQZ'] => '行政强制信息',
         IResourceCatalog::TYPE['ZRRRYBZXX'] => '自然人荣誉表彰信息',
+        IResourceCatalog::TYPE['QYBGDJXX'] => '企业变更登记信息',
+        IResourceCatalog::TYPE['QYNBXX'] => '企业年报信息',
+        IResourceCatalog::TYPE['QYRJCZXX'] => '企业认缴出资信息',
+        IResourceCatalog::TYPE['T_SGS_XZQR'] => '行政确认信息',
         //@position
     );
 }

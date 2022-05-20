@@ -80,7 +80,7 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['ZDSSWFAJXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['TJQYFRGGXYZHPJJG'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['XZJCXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-        IResourceCatalog::TYPE['XZQZXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        // IResourceCatalog::TYPE['XZQZXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['HZSGXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['ZDHZYHXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['SCXYPJGKPJXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
@@ -95,12 +95,17 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['FRYQTQFXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['FRYSJIFXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['TSGSJDJC'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-        IResourceCatalog::TYPE['TSGSXZQZ'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        // IResourceCatalog::TYPE['TSGSXZQZ'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['ZRRRYBZXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['QYBGDJXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['QYNBXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['QYRJCZXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-        IResourceCatalog::TYPE['T_SGS_XZQR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        // IResourceCatalog::TYPE['T_SGS_XZQR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['XZCJ'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['XZJDJC'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['XZJL'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['XZQR'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        IResourceCatalog::TYPE['XZQZ'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         //@position
     );
 }

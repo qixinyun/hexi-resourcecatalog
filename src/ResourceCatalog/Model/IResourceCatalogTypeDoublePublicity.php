@@ -94,7 +94,7 @@ interface IResourceCatalogTypeDoublePublicity
         IResourceCatalog::TYPE['FRYQJFXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['FRYQTQFXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['FRYSJIFXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
-        IResourceCatalog::TYPE['TSGSJDJC'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
+        // IResourceCatalog::TYPE['TSGSJDJC'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         // IResourceCatalog::TYPE['TSGSXZQZ'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['ZRRRYBZXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],
         IResourceCatalog::TYPE['QYBGDJXX'] => ISearchableResourceCatalogData::DOUBLE_PUBLICITY['NULL'],

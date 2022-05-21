@@ -94,7 +94,7 @@ interface IResourceCatalogTypeIdentify
         IResourceCatalog::TYPE['FRYQJFXX'] => 'FRYQJFXX',
         IResourceCatalog::TYPE['FRYQTQFXX'] => 'FRYQTQFXX',
         IResourceCatalog::TYPE['FRYSJIFXX'] => 'FRYSJIFXX',
-        IResourceCatalog::TYPE['TSGSJDJC'] => 'TSGSJDJC',
+        // IResourceCatalog::TYPE['TSGSJDJC'] => 'TSGSJDJC',
         // IResourceCatalog::TYPE['TSGSXZQZ'] => 'TSGSXZQZ',
         IResourceCatalog::TYPE['ZRRRYBZXX'] => 'ZRRRYBZXX',
         IResourceCatalog::TYPE['QYBGDJXX'] => 'QYBGDJXX',

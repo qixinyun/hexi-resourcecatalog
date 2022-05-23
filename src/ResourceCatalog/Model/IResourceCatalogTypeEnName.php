@@ -80,7 +80,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['ZDSSWFAJXX'] => 'zdsswfajxx',
         IResourceCatalog::TYPE['TJQYFRGGXYZHPJJG'] => 'tjqyfrggxyzhpjjg',
         IResourceCatalog::TYPE['XZJCXX'] => 'xzjcxx',
-        // IResourceCatalog::TYPE['XZQZXX'] => 'xzqzxx',
+        IResourceCatalog::TYPE['XZQZXX'] => 'xzqzxx',
         IResourceCatalog::TYPE['HZSGXX'] => 'hzsgxx',
         IResourceCatalog::TYPE['ZDHZYHXX'] => 'zdhzyhxx',
         IResourceCatalog::TYPE['SCXYPJGKPJXX'] => 'scxypjgkpjxx',

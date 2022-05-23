@@ -79,7 +79,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'YXQNZYZ' => 72,
         'TJQYFRGGXYZHPJJG' => 73,
         'XZJCXX'=>74,
-        // 'XZQZXX'=>75,
+        'XZQZXX'=>75,
         'HZSGXX'=>76,
         'ZDHZYHXX'=>77,
         'SCXYPJGKPJXX'=>78,

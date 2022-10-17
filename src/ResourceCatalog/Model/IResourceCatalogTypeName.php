@@ -106,6 +106,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['XZJL'] => '行政奖励信息——国标',
         IResourceCatalog::TYPE['XZQR'] => '行政确认信息——国标',
         IResourceCatalog::TYPE['XZQZ'] => '行政强制信息——国标',
+        IResourceCatalog::TYPE['AJNSRMD'] => '纳税信用A级纳税人',
+        IResourceCatalog::TYPE['YCJYML'] => '异常经营名录',
         //@position
     );
 }

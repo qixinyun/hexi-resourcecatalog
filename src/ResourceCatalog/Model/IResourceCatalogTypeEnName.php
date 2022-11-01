@@ -108,6 +108,7 @@ interface IResourceCatalogTypeEnName
         IResourceCatalog::TYPE['XZQZ'] => 'xzqz',
         IResourceCatalog::TYPE['AJNSRMD'] => 'ajnsrmd',
         IResourceCatalog::TYPE['YCJYML'] => 'ycjyml',
+        IResourceCatalog::TYPE['ZDSHWFAJMD'] => 'zdshwfajmd',
         //@position
     );
 }

@@ -108,7 +108,9 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'AJNSRMD'=>101,
         'YCJYML'=>102,
         'ZDSHWFAJMD'=>103,
-        //@position_type_104
+        'XZJF'=>104,
+        'T_HTLX_HTLXXX'=>105,
+        //@position_type_106
         'TEST' => 500
     );
 
@@ -116,9 +118,14 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         IUserGroup::ID['NULL'] => array(
             self::TYPE['NULL'],
             self::TYPE['XBXZCF'],
-            self::TYPE['XBXZXK']
+            self::TYPE['XBXZXK'],
+            self::TYPE['T_HTLX_HTLXXX'],
+            self::TYPE['XZJF']
         ),
-        IUserGroup::ID['QFGW'] => array(self::TYPE['ZDSHWFAJMD'],self::TYPE['YCJYML'],self::TYPE['AJNSRMD'],
+        IUserGroup::ID['QFGW'] => array(
+            self::TYPE['ZDSHWFAJMD'],
+            self::TYPE['YCJYML'],
+            self::TYPE['AJNSRMD'],
             self::TYPE['XZQZ'],
             self::TYPE['XZQR'],
             self::TYPE['XZJL'],

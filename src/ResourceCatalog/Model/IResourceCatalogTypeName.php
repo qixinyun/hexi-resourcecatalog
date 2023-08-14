@@ -109,6 +109,8 @@ interface IResourceCatalogTypeName
         IResourceCatalog::TYPE['AJNSRMD'] => '纳税信用A级纳税人',
         IResourceCatalog::TYPE['YCJYML'] => '异常经营名录',
         IResourceCatalog::TYPE['ZDSHWFAJMD'] => '重大税收违法案件名单',
+        IResourceCatalog::TYPE['XZJF'] => '行政给付信息',
+        IResourceCatalog::TYPE['T_HTLX_HTLXXX'] => '合同履行信息',
         //@position
     );
 }
